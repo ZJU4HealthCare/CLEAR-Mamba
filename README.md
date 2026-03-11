@@ -113,6 +113,3 @@ If you find this work useful, please consider giving this repository a star and 
 
 ## 🤝 Acknowledgment
 This project is developed based on [MedMamba](https://github.com/YubiaoYue/MedMamba). We sincerely thank the authors for their excellent work and open-source contribution.
-
-## ⚖️ License
-This repository is under [Apache License 2.0](LICENSE).
